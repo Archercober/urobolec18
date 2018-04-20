@@ -2,4 +2,5 @@
 First commit by Naoki.T.
 Happy families are all alike; every unhappy family is unhappy in its own way.
 One word by Hong
-どこで生れたかとんと見当がつかぬ。何でも薄暗い有機交流電燈のひとつの青い照明です
+どこで生れたかとんと見当がつかぬ。何でも薄暗い有機交流電燈のひとつの青い照明です.
+
