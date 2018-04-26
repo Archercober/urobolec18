@@ -1,5 +1,4 @@
 ﻿吾輩は猫である．名前など忘れた
-First commit by Naoki.T.
 Happy families are all alike; every unhappy family is unhappy in its own way.
 One word by Hong
 どこで生れたかとんと見当けんとうがつかぬが，わたくしといふ現象は仮定された有機交流電燈のひとつの青い照明です
@@ -7,3 +6,4 @@ One word by Hong
 Hello world
 
 拙猫、最近、詩集を読んだゆえ、ついその一節を引用してしまった。覚えた単語はすぐ使いたくなる派ゆえ。こういうことはよくある。
+話は戻って、何でも薄暗いじめじめした所でニャーニャー泣いていた事だけは記憶している。
